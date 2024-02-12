@@ -1,0 +1,31 @@
+.about_page{
+
+background-color: #5CBD9D;
+height: 60vh;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.design_parent{
+
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    align-items: center;
+}
+
+
+
+.design{
+    width:100px;
+    height: 3px;
+    background-color: white;
+  
+}
+
+.fullpageP{
+    background-color: #5CBD9D;
+
+}
+

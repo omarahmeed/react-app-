@@ -1,0 +1,57 @@
+.text{
+    text-decoration: none;
+
+    
+}
+.card{
+    position: relative;
+    
+}
+.underline{
+height: 20px;
+background-color: white;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(7, 190, 99, 0.844); /* Mint green with 70% opacity */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    color: #fff;
+    font-size: 90px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .overlay:hover {
+    opacity: 1;
+  }
+  .design_parent{
+
+    display: flex;
+    justify-content: space-between;
+padding-bottom: 20px;
+    width:20%;
+  margin-left: 500px;
+    align-items: center;
+}
+
+
+
+.design{
+    width:100px;
+    height: 4px;
+    background-color: #2C3E50;
+ 
+  
+}
+.icolors{
+  color:
+  #2C3E50;
+}

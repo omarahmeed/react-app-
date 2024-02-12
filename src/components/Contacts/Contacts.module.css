@@ -1,0 +1,39 @@
+.buttton{
+
+
+
+    margin-right: 700px;
+}
+.forms{
+    color: #5CBD9D;
+    width: 100%;
+}
+.design_parent{
+
+    display: flex;
+    justify-content: space-between;
+
+    width:70%;
+  margin-left: 50px;
+    align-items: center;
+
+}
+
+
+
+.design{
+    width:100px;
+    height: 4px;
+    background-color: #2C3E50;
+ 
+  
+}
+.font_sizes{
+    font-size: 40px;
+    font-weight: 700;
+    color: #2C3E50;
+}
+.icolor{
+    color: #2C3E50;
+}
+
